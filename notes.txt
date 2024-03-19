@@ -9,3 +9,10 @@ Libraries
 4. Scikit-Learn
     * provides common algorithms like decision trees, neural networks,etc.
 
+
+We use Jupyter Notebook for ML works.
+
+* install anaconda navigator from anaconda.com
+* run 'jupyter notebook' on the terminal to launch notebook
+* This will open a default dashboard on the browser.
+* Then we create a notebook at the desired location
