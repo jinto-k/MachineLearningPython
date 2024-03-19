@@ -1,0 +1,11 @@
+Libraries
+1. Numpy
+   * provides multidimensional array
+2. Pandas
+    * data analysis library that provides data frame.
+    * data frame is 2d data structure similar to excel spreadsheet.
+3. MathPlotLib
+    * 2d plotting library for creating graphs on plots.
+4. Scikit-Learn
+    * provides common algorithms like decision trees, neural networks,etc.
+
